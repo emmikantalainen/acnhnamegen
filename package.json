@@ -1,0 +1,12 @@
+{
+  "name": "acnhnamegen",
+  "version": "1.0.0",
+  "description": "A name generator for Animal Crossing: New Horizons.",
+  "scripts": {
+    "start": "serve",
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  },
+  "author": "Pulkit Aggarwal"
+}
