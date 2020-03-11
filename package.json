@@ -1,7 +1,7 @@
 {
-  "name": "acnhnamegen",
+  "name": "project_name",
   "version": "1.0.0",
-  "description": "A name generator for Animal Crossing: New Horizons.",
+  "description": "Project Description",
   "scripts": {
     "start": "serve",
   },
