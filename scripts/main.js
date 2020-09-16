@@ -10,5 +10,5 @@ if (combineLength > 10) {
 generate(); }
 }
 
-comboNumber.innerHTML = "Need a little inspiration to find the island name for you? Fret not, our generator here draws from a pool of " + prefix.length * suffix.length + " possible names to help you find the perfect one. <br><br> Feel free to use it as much as you need!";
+comboNumber.innerHTML = "Need a little inspiration to find the island name for you? Fret not, our generator here draws from a pool of " + prefix.length * suffix.length + " possible names to help you find the perfect one. <br>";
 
